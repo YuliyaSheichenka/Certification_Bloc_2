@@ -18,4 +18,7 @@ Understand what makes people interested into each other to go on a second date t
 
 - [Dataset on Kaggle](https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment)
 
-- [Gender Differences in Mate Selection: Evidence from a Speed Dating Experiment](https://academiccommons.columbia.edu/doi/10.7916/D8FB585Z) (article by the authors of the experiment)       
+- [Gender Differences in Mate Selection: Evidence from a Speed Dating Experiment](https://academiccommons.columbia.edu/doi/10.7916/D8FB585Z) (article by the authors of the experiment)  
+
+(1) Photo by <a href="https://unsplash.com/@vincefleming?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Vince Fleming</a> on <a href="https://unsplash.com/photos/8kDJohzgeC0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
