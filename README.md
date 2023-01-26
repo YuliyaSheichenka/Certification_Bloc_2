@@ -1,6 +1,6 @@
 # <p align="center">Speed Dating</p>
-  
-![dating](vince-fleming-8kDJohzgeC0-unsplash_cropped.jpg)
+
+<p align="center"> <img src="vince-fleming-8kDJohzgeC0-unsplash_cropped.jpg" width="200"> </p>
 
 ## Context 
 
